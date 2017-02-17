@@ -17,10 +17,12 @@ Les utilisateurs devront :
 ## Consignes
 travail seul ou à deux
 rendu fichiers Python dans un dossier (nommé suivant « votre_nom ») dans un archive ZIP (pareillement nommée), exemple : 
-karolak.zip
-|--> karolak/
- |--> main.py
- |--> […]
+	
+	karolak.zip
+	|__ karolak/
+	   |__ main.py
+ 	   |__ […]
+	
 à déposer sur Eprel/Moodle
 
 ## Notation
